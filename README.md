@@ -207,7 +207,7 @@ Built by a career-pivoter from Nepal, transitioning from digital marketing/SEO i
 ## 📧 Contact
 
 - GitHub: [@debeshkapali](https://github.com/debeshkapali)
-- Project Link: [git@github.com:debeshkapali/AI-mentor-platform.git](git@github.com:debeshkapali/AI-mentor-platform.git)
+- Project Link: [https://github.com/debeshkapali/AI-mentor-platform](https://github.com/debeshkapali/AI-mentor-platform)
 
 ---
 
